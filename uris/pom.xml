@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>br.ime.uris</groupId>
+  <artifactId>uris</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+
+  <name>uris</name>
+  <url>http://maven.apache.org</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <springframework-version>4.1.6.RELEASE</springframework-version>
+	<springdata-version>1.8.0.RELEASE</springdata-version>
+	<springsecurity-version>4.0.1.RELEASE</springsecurity-version>
+	<hibernate-version>4.3.9.Final</hibernate-version>
+	<org.slf4j-version>1.7.12</org.slf4j-version>
+	<log4j-version>1.2.17</log4j-version>
+  </properties>
+
+  <dependencies>
+    
+  </dependencies>
+  <modules>
+    <module>uris-web</module>
+    <module>uris-ser</module>
+    <module>uris-ser-imp</module>
+    <module>uris-dao</module>
+    <module>uris-dao-imp</module>
+    <module>uris-domain</module>
+    <module>uris-repository</module>
+    <module>uris-repository-imp</module>
+    <module>uris-util</module>
+    <module>uris-rest</module>
+  </modules>
+</project>
