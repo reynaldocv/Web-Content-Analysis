@@ -22,14 +22,14 @@ Abrimos o IDE Eclipse e selecionamos como workspace o endereçõ de nossa carpet
 Já estando no ambiente, presionamos Crtl+Shift+R e digitamos Persistence, e clickamos no arquivo.
 
 <p align="center">
-  <img height="700" src="img/persistence.png">    
+  <img height="400" src="img/persistence.png">    
    
 </p>
 
 A seguir, temos un arquivo onde fazemos a configuração para ter conetividade com o Banco de Dados do Postgresql.
 
 <p align="center">
-  <img height="700" src="img/persitence2.png">    
+  <img height="600" src="img/persistence2.png">    
    
 </p>
 
