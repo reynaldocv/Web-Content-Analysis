@@ -15,7 +15,7 @@ Descargamos o respositorio e extraimos en algum endereço.
 Abrimos o IDE Eclipse e selecionamos como workspace o endereçõ de nossa carpeta $uri$ do repositorio.
 
 <p align="center">
-  <img height="400" src="img/declarandoworkspace.png">    
+  <img height="400" src="img/declaramosworkpace.png">    
    
 </p>
 
