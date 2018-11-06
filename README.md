@@ -29,7 +29,7 @@ Já estando no ambiente, presionamos Crtl+Shift+R e digitamos Persistence, e cli
 A seguir, temos un arquivo onde fazemos a configuração para ter conetividade com o Banco de Dados do Postgresql.
 
 <p align="center">
-  <img height="600" src="img/persistence2.png">    
+  <img height="700" src="img/persistence2.png">    
    
 </p>
 
