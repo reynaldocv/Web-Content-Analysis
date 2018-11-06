@@ -19,6 +19,16 @@ Abrimos o IDE Eclipse e selecionamos como workspace o endereçõ de nossa carpet
    
 </p>
 
+Já estando no ambiente, presionamos Crtl+Shift+R e digitamos Persistence, e clickamos no arquivo.
+
+<p align="center">
+  <img height="700" src="img/declaramosworkpace.png">    
+   
+</p>
+
+A seguir, temos un arquivo onde fazemos a configuração para ter conetividade com o Banco de Dados do Postgresql.
+
+
 
 
 
