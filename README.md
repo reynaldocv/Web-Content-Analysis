@@ -5,8 +5,7 @@ It was created a SOA Architecture  for   Web Content Analysis.
 
 Descargamos o respositorio e extraimos en algum endereço.
 
-![alt text](img/download.png)
-
+![alt text](/img/download.png)
 
 
 
