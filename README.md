@@ -1,5 +1,11 @@
 # Web-Content-Analysis
 It was created a SOA Architecture  for   Web Content Analysis. 
+## Descrição do Projeto.
+
+Esse é um projecto da disciplima .
+
+UPDATE 05/11: All the data model classes were created. And a CRUD resource and unit tests for it were implemented. We will replicate this for the remaining classes and then we will finish creating the machine learning models and other rules.
+
 
 ## Instalação do Banco de Dados 
 
